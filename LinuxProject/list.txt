@@ -1,0 +1,40 @@
+_________product 1 information________
+Product ID: 120000
+Product Name: Laptop
+Product Category: Electronics
+Price: 999.99
+Inventory: 10
+Supplier: ABC Electronics
+Has an Offer: Yes
+Offer Price: 899.99
+Valid Until: 2023-12-31
+
+_________product 2 information________
+Product ID: 120001
+Product Name: mouse
+Product Category: Electronics
+Price: 40.0
+Inventory: 10
+Supplier: ABC Electronics
+Has an Offer: Yes
+Offer Price: 899.99
+Valid Until: 2024-12-31
+
+_________product 3 information________
+Product ID: 120002
+Product Name: door
+Product Category: furniture
+Price: 999.99
+Inventory: 10
+Supplier: IKEA
+Has an Offer: No
+
+_________product 4 information________
+Product ID: 120003
+Product Name: phone
+Product Category: Electronics
+Price: 99.9
+Inventory: 10
+Supplier: ABC Electronics
+Has an Offer: No
+

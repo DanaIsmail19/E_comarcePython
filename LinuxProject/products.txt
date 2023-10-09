@@ -1,0 +1,4 @@
+120000;Laptop;Electronics;999.99;10;ABC Electronics;1;899.99;2023-12-31
+120001;mouse;Electronics;40;10;ABC Electronics;1;899.99;2024-12-31
+120002;door;furniture;999.99;10;IKEA;0;;
+120003;phone;Electronics;99.9;10;ABC Electronics;0;;
